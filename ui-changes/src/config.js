@@ -1,5 +1,5 @@
 export default {
   /* eslint-disable */
-  githubSrc: 'https://raw.githubusercontent.com/ohbm/cobidas/master/protocol/cobidas_schema',
-  contentSrc: 'https://raw.githubusercontent.com/ohbm/cobidas/master/protocol/README-en.md'
+  githubSrc: 'https://raw.githubusercontent.com/Remi-Gau/cobidas-PET/master/protocols/PET/PET_schema',
+  contentSrc: 'https://raw.githubusercontent.com/Remi-Gau/cobidas-PET/master/README.md'
 }
