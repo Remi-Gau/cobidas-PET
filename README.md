@@ -8,7 +8,7 @@ This checklist is still work in progress. The current prototype has been built u
 
 We are currently working to create a more complete checklist as described in the OHBM COBIDAS reports for MRI, fMRI, EEG and MEG (see [below](#Background) for more information).
 
----
+--- 
 
 <!-- TOC -->
 
