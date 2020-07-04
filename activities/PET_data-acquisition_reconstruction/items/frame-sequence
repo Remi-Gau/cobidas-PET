@@ -57,7 +57,7 @@
             },
             {
                 "schema:name": "Other",
-                "schema:value": 7,
+                "schema:value": 8,
                 "@type": "schema:option"
             }
         ]

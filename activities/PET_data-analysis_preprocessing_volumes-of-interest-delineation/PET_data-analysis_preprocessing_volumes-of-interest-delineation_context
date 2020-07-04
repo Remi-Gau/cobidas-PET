@@ -37,6 +37,10 @@
         "partial-volume-correction-software": {
             "@id": "item_path:partial-volume-correction-software",
             "@type": "@id"
+        },
+        "partial-volume-correction-software-version": {
+            "@id": "item_path:partial-volume-correction-software-version",
+            "@type": "@id"
         }
     }
 }

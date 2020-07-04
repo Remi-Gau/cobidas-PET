@@ -25,6 +25,10 @@
         "moco-software": {
             "@id": "item_path:moco-software",
             "@type": "@id"
+        },
+        "moco-software-version": {
+            "@id": "item_path:moco-software-version",
+            "@type": "@id"
         }
     }
 }

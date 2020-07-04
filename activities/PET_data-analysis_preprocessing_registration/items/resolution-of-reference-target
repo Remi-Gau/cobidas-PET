@@ -32,7 +32,7 @@
             },
             {
                 "schema:name": "Other",
-                "schema:value": 2,
+                "schema:value": 3,
                 "@type": "schema:option"
             }
         ]

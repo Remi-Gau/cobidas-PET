@@ -4,7 +4,7 @@
         "https://raw.githubusercontent.com/Remi-Gau/cobidas-PET/master/activities/PET_statistics_multiple-testings/PET_statistics_multiple-testings_context"
     ],
     "@type": "reproschema:Activity",
-    "@id": "PET_statistics_multiple-testings",
+    "@id": "PET_statistics_multiple-testings_schema",
     "skos:prefLabel": "PET_statistics_multiple-testings",
     "schema:description": "PET_statistics_multiple-testings",
     "schema:schemaVersion": "0.0.1",
@@ -23,18 +23,18 @@
         "addProperties": [
             {
                 "variableName": "method",
-                "isAbout": "method",
-                "isVis": ""
+                "isAbout": "item_path:method",
+                "isVis": true
             },
             {
                 "variableName": "threshold",
-                "isAbout": "threshold",
-                "isVis": ""
+                "isAbout": "item_path:threshold",
+                "isVis": true
             },
             {
                 "variableName": "number-of-tests",
-                "isAbout": "number-of-tests",
-                "isVis": ""
+                "isAbout": "item_path:number-of-tests",
+                "isVis": true
             }
         ]
     }

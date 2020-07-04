@@ -2,6 +2,14 @@
     "@context": {
         "@version": 1.1,
         "item_path": "https://raw.githubusercontent.com/Remi-Gau/cobidas-PET/master/activities/PET_radioligand_metabolite/items/",
+        "MetaboliteAvail": {
+            "@id": "item_path:MetaboliteAvail",
+            "@type": "@id"
+        },
+        "MetaboliteMethod": {
+            "@id": "item_path:MetaboliteMethod",
+            "@type": "@id"
+        },
         "radiolabeled-parent-compound-fraction": {
             "@id": "item_path:radiolabeled-parent-compound-fraction",
             "@type": "@id"
@@ -32,6 +40,10 @@
         },
         "radiolabeled-metabolite-fractions": {
             "@id": "item_path:radiolabeled-metabolite-fractions",
+            "@type": "@id"
+        },
+        "MetaboliteRecoveryCorrectionApplied": {
+            "@id": "item_path:MetaboliteRecoveryCorrectionApplied",
             "@type": "@id"
         }
     }

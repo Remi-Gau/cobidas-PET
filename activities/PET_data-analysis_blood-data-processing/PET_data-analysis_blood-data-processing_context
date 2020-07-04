@@ -10,14 +10,6 @@
             "@id": "item_path:delay-time-correction",
             "@type": "@id"
         },
-        "dispersion-correction": {
-            "@id": "item_path:dispersion-correction",
-            "@type": "@id"
-        },
-        "metabolite-correction": {
-            "@id": "item_path:metabolite-correction",
-            "@type": "@id"
-        },
         "fitting": {
             "@id": "item_path:fitting",
             "@type": "@id"

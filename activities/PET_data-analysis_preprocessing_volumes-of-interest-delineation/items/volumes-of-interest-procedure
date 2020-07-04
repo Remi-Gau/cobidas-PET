@@ -13,7 +13,7 @@
         "allow": [
             "skipped"
         ],
-        "inputType": "select"
+        "inputType": "radio"
     },
     "question": {
         "en": "Volumes of interest procedure"
@@ -37,7 +37,7 @@
             },
             {
                 "schema:name": "Other",
-                "schema:value": 3,
+                "schema:value": 4,
                 "@type": "schema:option"
             }
         ]

@@ -6,10 +6,6 @@
             "@id": "item_path:whole-blood-radioactivity",
             "@type": "@id"
         },
-        "whole-blood-radioactivity-units": {
-            "@id": "item_path:whole-blood-radioactivity-units",
-            "@type": "@id"
-        },
         "plasma-to-whole-blood-ratio": {
             "@id": "item_path:plasma-to-whole-blood-ratio",
             "@type": "@id"

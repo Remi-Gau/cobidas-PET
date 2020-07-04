@@ -2,12 +2,20 @@
     "@context": {
         "@version": 1.1,
         "item_path": "https://raw.githubusercontent.com/Remi-Gau/cobidas-PET/master/activities/PET_radioligand_plasma/items/",
-        "plasma-free-fraction": {
-            "@id": "item_path:plasma-free-fraction",
+        "PlasmaAvail": {
+            "@id": "item_path:PlasmaAvail",
+            "@type": "@id"
+        },
+        "PlasmaFreeFraction": {
+            "@id": "item_path:PlasmaFreeFraction",
             "@type": "@id"
         },
         "error-of-free-fraction-measurement": {
             "@id": "item_path:error-of-free-fraction-measurement",
+            "@type": "@id"
+        },
+        "PlasmaFreeFractionMethod": {
+            "@id": "item_path:PlasmaFreeFractionMethod",
             "@type": "@id"
         },
         "data:-decay-corrected": {
@@ -20,10 +28,6 @@
         },
         "data:-type": {
             "@id": "item_path:data:-type",
-            "@type": "@id"
-        },
-        "data:-labels": {
-            "@id": "item_path:data:-labels",
             "@type": "@id"
         },
         "data:-units": {

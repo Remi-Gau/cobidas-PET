@@ -34,16 +34,20 @@
             "@id": "item_path:registration-software",
             "@type": "@id"
         },
+        "registration-software-version": {
+            "@id": "item_path:registration-software-version",
+            "@type": "@id"
+        },
         "smoothing-target-image": {
             "@id": "item_path:smoothing-target-image",
             "@type": "@id"
         },
-        "size-of-smoothing-filter": {
-            "@id": "item_path:size-of-smoothing-filter",
-            "@type": "@id"
-        },
         "shape-of-smoothing-filter": {
             "@id": "item_path:shape-of-smoothing-filter",
+            "@type": "@id"
+        },
+        "size-of-smoothing-filter": {
+            "@id": "item_path:size-of-smoothing-filter",
             "@type": "@id"
         },
         "justification-for-smoothing-size": {

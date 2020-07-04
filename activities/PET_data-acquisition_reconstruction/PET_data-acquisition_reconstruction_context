@@ -2,28 +2,36 @@
     "@context": {
         "@version": 1.1,
         "item_path": "https://raw.githubusercontent.com/Remi-Gau/cobidas-PET/master/activities/PET_data-acquisition_reconstruction/items/",
-        "acquisition-mode": {
-            "@id": "item_path:acquisition-mode",
+        "AcquisitionMode": {
+            "@id": "item_path:AcquisitionMode",
             "@type": "@id"
         },
-        "reconstruction-method": {
-            "@id": "item_path:reconstruction-method",
+        "ImageDecayCorrected": {
+            "@id": "item_path:ImageDecayCorrected",
             "@type": "@id"
         },
-        "parameters": {
-            "@id": "item_path:parameters",
+        "ImageDecayCorrectionTime": {
+            "@id": "item_path:ImageDecayCorrectionTime",
             "@type": "@id"
         },
-        "recon-filter-type": {
-            "@id": "item_path:recon-filter-type",
+        "ReconMethodName": {
+            "@id": "item_path:ReconMethodName",
             "@type": "@id"
         },
-        "attenuation-correction": {
-            "@id": "item_path:attenuation-correction",
+        "ReconMethodParameterLabels": {
+            "@id": "item_path:ReconMethodParameterLabels",
             "@type": "@id"
         },
-        "postrecon-filter-size": {
-            "@id": "item_path:postrecon-filter-size",
+        "ReconFilterType": {
+            "@id": "item_path:ReconFilterType",
+            "@type": "@id"
+        },
+        "AttenuationCorrection": {
+            "@id": "item_path:AttenuationCorrection",
+            "@type": "@id"
+        },
+        "ReconFilterSize": {
+            "@id": "item_path:ReconFilterSize",
             "@type": "@id"
         },
         "pet-voxel-size": {
@@ -36,6 +44,38 @@
         },
         "frame-sequence": {
             "@id": "item_path:frame-sequence",
+            "@type": "@id"
+        },
+        "ScaleFactor": {
+            "@id": "item_path:ScaleFactor",
+            "@type": "@id"
+        },
+        "ScatterFraction": {
+            "@id": "item_path:ScatterFraction",
+            "@type": "@id"
+        },
+        "DecayCorrectionFactor": {
+            "@id": "item_path:DecayCorrectionFactor",
+            "@type": "@id"
+        },
+        "PromptRate": {
+            "@id": "item_path:PromptRate",
+            "@type": "@id"
+        },
+        "RandomRate": {
+            "@id": "item_path:RandomRate",
+            "@type": "@id"
+        },
+        "SinglesRate": {
+            "@id": "item_path:SinglesRate",
+            "@type": "@id"
+        },
+        "data:-labels": {
+            "@id": "item_path:data:-labels",
+            "@type": "@id"
+        },
+        "AttenuationCorrectionMethodReference": {
+            "@id": "item_path:AttenuationCorrectionMethodReference",
             "@type": "@id"
         }
     }

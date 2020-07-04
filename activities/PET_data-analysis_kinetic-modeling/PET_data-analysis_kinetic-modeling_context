@@ -25,6 +25,10 @@
         "kinetic-modelling-software": {
             "@id": "item_path:kinetic-modelling-software",
             "@type": "@id"
+        },
+        "kinetic-modelling-software-version": {
+            "@id": "item_path:kinetic-modelling-software-version",
+            "@type": "@id"
         }
     }
 }

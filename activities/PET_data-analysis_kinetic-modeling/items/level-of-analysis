@@ -34,6 +34,11 @@
                 "schema:name": "region+voxel",
                 "schema:value": 2,
                 "@type": "schema:option"
+            },
+            {
+                "schema:name": "Other",
+                "schema:value": 4,
+                "@type": "schema:option"
             }
         ]
     }

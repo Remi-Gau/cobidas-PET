@@ -13,7 +13,7 @@
         "allow": [
             "skipped"
         ],
-        "inputType": "select"
+        "inputType": "radio"
     },
     "question": {
         "en": "Well counter read"
@@ -28,6 +28,11 @@
             {
                 "schema:name": "counts per minute",
                 "schema:value": 1,
+                "@type": "schema:option"
+            },
+            {
+                "schema:name": "Other",
+                "schema:value": 3,
                 "@type": "schema:option"
             }
         ]

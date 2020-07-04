@@ -13,7 +13,7 @@
         "allow": [
             "skipped"
         ],
-        "inputType": "select"
+        "inputType": "radio"
     },
     "question": {
         "en": "Sampling Method"
@@ -47,7 +47,7 @@
             },
             {
                 "schema:name": "Other",
-                "schema:value": 5,
+                "schema:value": 6,
                 "@type": "schema:option"
             }
         ]
