@@ -1,4 +1,6 @@
-# eCOBIDAS
+![CI](https://github.com/Remi-Gau/cobidas-PET/workflows/CI/badge.svg)
+
+# eCOBIDAS for PET
 
 **A checklist for methods and results reporting for neuroimaging studies**
 
@@ -12,13 +14,14 @@ We are currently working to create a more complete checklist as described in the
 
 <!-- TOC -->
 
--   [How to use it](#how-to-use-it)
--   [Why this project?](#why-this-project)
--   [Background](#background)
--   [Want to help?](#want-to-help)
--   [Want to know more?](#want-to-know-more)
--   [Contributors](#contributors)
--   [License](#license)
+- [eCOBIDAS for PET](#ecobidas-for-pet)
+  - [How to use it](#how-to-use-it)
+  - [Why this project?](#why-this-project)
+  - [Background](#background)
+  - [Want to help?](#want-to-help)
+  - [Want to know more? Have any questions? Something is missing? Let us know.](#want-to-know-more-have-any-questions-something-is-missing-let-us-know)
+  - [Contributors](#contributors)
+  - [License](#license)
 
 <!-- /TOC -->
 
