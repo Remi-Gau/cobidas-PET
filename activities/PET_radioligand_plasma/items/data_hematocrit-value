@@ -5,7 +5,7 @@
     "prefLabel": "data_hematocrit-value",
     "description": "data_hematocrit-value",
     "schemaVersion": "1.0.0-rc1",
-    "version": "1.0.0-rc1",
+    "version": "0.0.1",
     "ui": {
         "inputType": "float"
     },

@@ -5,7 +5,7 @@
     "prefLabel": "fraction-of-radiometabolite-needing-quantitation",
     "description": "fraction-of-radiometabolite-needing-quantitation",
     "schemaVersion": "1.0.0-rc1",
-    "version": "1.0.0-rc1",
+    "version": "0.0.1",
     "ui": {
         "inputType": "select"
     },
