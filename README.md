@@ -6,9 +6,7 @@
 
 Try the app [HERE](https://remi-gau.github.io/cobidas-PET/)!
 
-This checklist is still work in progress. The current prototype has been built using the 88 metadata items list used by the [Neurovault website](https://neurovault.org/) when uploading your neuroimaging results.
-
-We are currently working to create a more complete checklist as described in the OHBM COBIDAS reports for MRI, fMRI, EEG and MEG (see [below](#Background) for more information). 
+<!-- We are currently working to create a more complete checklist as described in the OHBM COBIDAS reports for MRI, fMRI, EEG and MEG (see [below](#Background) for more information).  -->
 
 --- 
 
@@ -17,7 +15,6 @@ We are currently working to create a more complete checklist as described in the
 - [eCOBIDAS for PET](#ecobidas-for-pet)
   - [How to use it](#how-to-use-it)
   - [Why this project?](#why-this-project)
-  - [Background](#background)
   - [Want to help?](#want-to-help)
   - [Want to know more? Have any questions? Something is missing? Let us know.](#want-to-know-more-have-any-questions-something-is-missing-let-us-know)
   - [Contributors](#contributors)
@@ -29,9 +26,9 @@ We are currently working to create a more complete checklist as described in the
 
 ## How to use it
 
-You can navigate each section on the left and then answer the questions corresponding to your fMRI analysis. This is meant to make sure that you have not forgotten any of the essential information in the methods and results parts of your article.
+You can navigate each section on the left and then answer the questions corresponding to your fMRI analysis. This is meant to make sure that you have not forgotten any of the essential information during data collection or later in the methods and results parts of your article.
 
-At the end, you can click on `Export` (bottom left) to get a zip file containing machine readable json files that captures information about your method/results section: our next step is to use this to automate the part of the methods writing and to submit the information alongside data submission to Neurovault and other data archives.
+At the end, you can click on `Export` (bottom left) to get a zip file containing machine readable json files that captures information about your method/results section: our next step is to use this to automate the part of the methods writing and to submit the information alongside data submission to a journal and other data archives.
 
 ## Why this project?
 
@@ -39,13 +36,13 @@ Poor methods and results description hinders the reproducibility and the replica
 
 Follow the link if you want to know more about the [motivations behind this project](https://github.com/Remi-Gau/COBIDAS_chckls/blob/master/why_this_project.md).
 
-## Background
+<!-- ## Background
 
 This checklist is a project to make a user friendly checklist out the best practices [report](https://www.humanbrainmapping.org/COBIDASreport) of the Committee on Best Practices in Data Analysis and Sharing ([COBIDAS](https://www.humanbrainmapping.org/cobidas/)) of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org).
 
 Currently the sections and items in the checklist correspond to the list of metadata used by [neurovault website](https://neurovault.org/) when uploading your neuroimaging results.
 
-This is very much of a work in progress but the next step is to expand the list to cover all the items of the COBIDAS report for fMRI as well as for the recent [extension to EEG and MEG](https://osf.io/a8dhx/).
+This is very much of a work in progress but the next step is to expand the list to cover all the items of the COBIDAS report for fMRI as well as for the recent [extension to EEG and MEG](https://osf.io/a8dhx/). -->
 
 ## Want to help? 
 
