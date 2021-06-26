@@ -20,7 +20,7 @@ Poor methods and results description hinders the reproducibility and the replica
 
 Follow the link if you want to know more about the [motivations behind this project](https://github.com/Remi-Gau/COBIDAS_chckls/blob/master/why_this_project.md).
 
-## Want to help? 
+## Want to help?
 
 We have a [list](https://github.com/Remi-Gau/COBIDAS_chckls/blob/master/goals.md) of short, middle, long term goals: if you are interested by any of those get in touch. Many of them do not necessarily require super-advanced technical skills (except maybe a certain love for working with spreadsheet and wanting them to be super organized) :wink:.
 
